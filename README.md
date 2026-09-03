@@ -20,9 +20,7 @@
       <img src="https://img.shields.io/badge/🟢_Available_for-Collabs_%26_Roles-00F5D4?style=flat-square&color=0D1117&labelColor=00F5D4" alt="Availability Badge" />
     </td>
     <td width="72%" valign="middle">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=00F5D4&center=false&vCenter=true&multiline=false&width=480&height=45&lines=Hi+there,+I'm+Rajan+Singh+👋;Aspiring+Software+Engineer+💻;C%2B%2B+%7C+DSA+%7C+Full+Stack+Dev+🚀;Building+Scalable+Impact+⚡" alt="Typing SVG" />
-      </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I+am+Rajan+Singh+%F0%9F%91%8B;Aspiring+Software+Engineer+%F0%9F%92%BB;C%2B%2B+%7C+DSA+%7C+Full-Stack+Dev+%F0%9F%9A%80;Building+High-Impact+Software+%E2%9A%A1" alt="Typing SVG" /></a>
       <p>
         🎓 <b>B.Tech Student @ JSS Academy of Technical Education (JSSATEN)</b><br />
         💡 <b>Passionate about Problem Solving, Scalable Systems &amp; Clean Code</b><br />
