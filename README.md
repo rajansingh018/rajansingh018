@@ -68,9 +68,13 @@
 ### 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <a href="https://github.com/rajansingh018">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajansingh018&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/🏆_Milestone-Active_Builder-00F5D4?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_DSA-C++_Enthusiast-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🚀_Full_Stack-Modern_Web_Apps-7928CA?style=for-the-badge&logo=react&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎯_College-JSSATEN-0A66C2?style=for-the-badge&logo=google-classroom&logoColor=white" />
 </div>
 
 ---
@@ -160,15 +164,20 @@
 
 <div align="center">
 
-  <!-- Streak Stats & GitHub Overall Stats -->
+  <!-- 🔥 Live Streak Stats & 📈 GitHub Stats (High-Speed Mirror) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajansingh018&theme=tokyonight&hide_border=true&card_width=450&border_radius=12&background=0D1117&ring=00F5D4&fire=FF007A&currStreakNum=00F5D4" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=rajansingh018&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&border_radius=12&bg_color=0D1117&title_color=00F5D4&icon_color=FF007A&text_color=A9B1D6&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajansingh018&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&border_radius=12&bg_color=0D1117&title_color=00F5D4&icon_color=FF007A&text_color=A9B1D6&count_private=true" alt="GitHub Stats" />
   </p>
 
-  <!-- Top Languages Card -->
+  <!-- 💻 Top Languages Card (High-Speed Mirror) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajansingh018&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=450&bg_color=0D1117&title_color=00F5D4&text_color=A9B1D6" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rajansingh018&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=450&bg_color=0D1117&title_color=00F5D4&text_color=A9B1D6" alt="Top Languages" />
+  </p>
+
+  <!-- 🧠 Real-Time LeetCode Stats Card -->
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/rajansingh018?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="600" />
   </p>
 
 </div>
